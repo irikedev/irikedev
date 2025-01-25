@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Paulo Henrique, a full-time full-stack freelance developer 👨‍💻 Self-taught study  🚀</div>  
+### <div align="center">I'm Paulo Henrique, a full-time full-stack developer 👨‍💻 Self-taught study  🚀</div>  
   
 
-- 🔭 I’m currently studing on high school  
+- 🔭 I'm studying systems analysis and development at UFBRA
   
 
 - 🌱 I’m currently learning ReactJS  
