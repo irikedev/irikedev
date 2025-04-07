@@ -6,7 +6,7 @@
 ### <div align="center">I'm Paulo Henrique, a full-time full-stack developer 👨‍💻 Self-taught study  🚀</div>  
   
 
-- 🔭 I'm studying systems analysis and development at UFBRA
+- 🔭 I'm studying systems analysis and development 
   
 
 - 🌱 I’m currently learning ReactJS  
